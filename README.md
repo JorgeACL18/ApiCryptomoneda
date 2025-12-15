@@ -25,3 +25,20 @@ Este trabajo está hecho en un proyecto de Maven para que se pueda trabajar con 
 Lo únio que hay que hacer es añadir la dependencia del JSON para que el programa funcione correctamente.
 
 <img width="941" height="504" alt="Captura de pantalla 2025-12-15 205414" src="https://github.com/user-attachments/assets/1ed08890-353c-453d-9364-af5d82a3dfcc" />
+
+---
+
+Resultados:
+
+Lo primero que se mostrará al iniciar el programa es el mensaje que indica que tenemos que introducir el símbolo o el nombre de la moneda:
+
+<img width="591" height="261" alt="Captura de pantalla 2025-12-15 212316" src="https://github.com/user-attachments/assets/21ab0829-a489-4356-aac2-944e084e26af" />
+
+Si introducimos el símbolo o el nombre de una moneda existente este será el resultado:
+
+<img width="487" height="340" alt="Captura de pantalla 2025-12-15 212330" src="https://github.com/user-attachments/assets/231aa12b-9b9c-4ccc-8e0a-a414c8109863" />
+<img width="487" height="340" alt="Captura de pantalla 2025-12-15 212345" src="https://github.com/user-attachments/assets/fbc1d869-3555-4517-87f9-a86b5f132f30" />
+
+Pero, si de lo contrario introducimos una moneda que no existe aparecerá este mensaje:
+
+<img width="502" height="257" alt="Captura de pantalla 2025-12-15 212441" src="https://github.com/user-attachments/assets/c0ce2a48-a2a2-43dc-a6af-008e0499b11b" />
