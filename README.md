@@ -16,3 +16,12 @@ Una vez declarado todo lo demás, hay que iniciar un bucle que se ocupará de le
 
 
 <img width="811" height="1217" alt="Captura de pantalla 2025-12-15 205334" src="https://github.com/user-attachments/assets/275e2d0c-e38a-4c8e-893b-531646c80006" />
+
+---
+
+### pom.xml
+Este trabajo está hecho en un proyecto de Maven para que se pueda trabajar con datos JSON, por lo tanto, hay que configurar el archivo pom.xml.
+
+Lo únio que hay que hacer es añadir la dependencia del JSON para que el programa funcione correctamente.
+
+<img width="941" height="504" alt="Captura de pantalla 2025-12-15 205414" src="https://github.com/user-attachments/assets/1ed08890-353c-453d-9364-af5d82a3dfcc" />
